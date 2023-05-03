@@ -1,0 +1,6 @@
+name: herokuclone
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A heroku clone on pulumi AWS
